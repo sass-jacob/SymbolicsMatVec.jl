@@ -1,5 +1,5 @@
 module SymbolicsMatVec
 
-# Write your package code here.
+using Symbolics
 
 end
