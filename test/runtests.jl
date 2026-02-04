@@ -1,6 +1,6 @@
-using SymbolicsMatVec
+using SymbolicPolyChaos
 using Test
 
-@testset "SymbolicsMatVec.jl" begin
+@testset "SymbolicPolyChaos.jl" begin
     # Write your tests here.
 end

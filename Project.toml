@@ -1,4 +1,4 @@
-name = "SymbolicsMatVec"
+name = "SymbolicPolyChaos"
 uuid = "5bebe395-998c-492f-8aba-576811a0ac94"
 version = "1.0.0-DEV"
 authors = ["Jacob Sass <80420670+sass-jacob@users.noreply.github.com> and contributors"]

@@ -1,1 +1,3 @@
-using SymbolicsMatVec
+using SymbolicPolyChaos
+
+
